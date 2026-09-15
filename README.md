@@ -7,6 +7,7 @@ Chuleta de markdown
 ##### Subapartado del subapartado del subapartado
 ###### Subapartado del subapartado del subapartado del subapartado
 
+
 **texto en negrita**
 
 *texto en cursiva*
@@ -14,4 +15,5 @@ Chuleta de markdown
 ***Texto en negrita Y cursiva***
 
 ~~tachado~~
+
 
