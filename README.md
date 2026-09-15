@@ -19,4 +19,4 @@ Chuleta de markdown
 
 [Visita GitHub](https://github.com)
 
-![Un gato hacker] ()
+![Un gato hacker](https://www.magnific.com/free-photos-vectors/github-cat)
