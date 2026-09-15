@@ -21,3 +21,21 @@ Chuleta de markdown
 
 ![Un gato hacker](plantilla/assets-img/cute-cat-hacker-operating-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-6824.avif)
 
+- HTML
+- CSS
+- JavaScript
+- Python
+
+1. Diseñar
+2. Programar
+3. Probar
+4. Publicar
+
+- Lenguajes
+    - HTML
+    - CSS
+    - JavaScript
+- Herramientas
+    - Git
+    - Github
+
