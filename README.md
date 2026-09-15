@@ -19,4 +19,4 @@ Chuleta de markdown
 
 [Visita GitHub] (https://github.com)
 
-![Un gato hacker] (https://img.magnific.com/free-vector/cute-cat-hacker-operating-laptop-cartoon-vector-icon-illustration-animal-technology-icon-isolated_138676-6824.jpg)
+![Un gato hacker] ()
