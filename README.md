@@ -39,3 +39,5 @@ Chuleta de markdown
     - Git
     - Github
 
+- [ ] Tarea pendiente
+- [x] Tarea completa
