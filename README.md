@@ -17,6 +17,6 @@ Chuleta de markdown
 ~~tachado~~
 
 
-[Visita GitHub] (https://github.com)
+[Visita GitHub](https://github.com)
 
 ![Un gato hacker] ()
